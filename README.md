@@ -155,9 +155,9 @@ ImageCarousel.css
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/c870209c-7a9e-43ea-87ea-a92603fc2b19)
 ![image](https://github.com/user-attachments/assets/cc16ff45-f0da-4258-b81e-f0783bd2446a)
 ![image](https://github.com/user-attachments/assets/b6a6fd90-c421-4129-beb7-67bf7f20c685)
+![image](https://github.com/user-attachments/assets/fc89a8c2-4ea5-4bd5-9e62-404bb8f40663)
 
 
 ## RESULT
