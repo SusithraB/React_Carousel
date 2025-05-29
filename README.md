@@ -55,6 +55,9 @@ function App() {
     <div>
       <h2 style={{ textAlign: 'center' }}>React Image Carousel</h2>
       <ImageCarousel images={images} autoPlayInterval={3000} />
+      <footer className="App-footer">
+        Susithra B (212223220113)
+      </footer>
     </div>
   );
 }
@@ -155,10 +158,9 @@ ImageCarousel.css
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/cc16ff45-f0da-4258-b81e-f0783bd2446a)
-![image](https://github.com/user-attachments/assets/b6a6fd90-c421-4129-beb7-67bf7f20c685)
-![image](https://github.com/user-attachments/assets/fc89a8c2-4ea5-4bd5-9e62-404bb8f40663)
-
+![image](https://github.com/user-attachments/assets/255da5d0-c1e3-4e27-b5a3-3b92d2884dc9)
+![image](https://github.com/user-attachments/assets/a02a02c8-0cfc-4b70-ac0e-34370c1af9ba)
+![image](https://github.com/user-attachments/assets/f922feac-902b-411d-9520-76bd352ca945)
 
 ## RESULT
 The program for creating Image Carousel using React is executed successfully.
